@@ -9,7 +9,7 @@ export default function SaoPaulo()
                 </p>
 
                 <p>
-                    <img src="" />
+                    <img src="/sppicture.jpg"  alt= "" /> 
                 </p>
 
                 <p>

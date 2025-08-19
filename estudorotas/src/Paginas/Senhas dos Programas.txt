@@ -1,0 +1,3 @@
+UBUNTU - "etec"
+email do wordpress -email: etecdemococasp@gmail.com senha:mococa123321
+senha do Wordpress - "etec"
